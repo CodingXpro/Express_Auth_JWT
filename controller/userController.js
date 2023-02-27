@@ -150,3 +150,5 @@ class UserController {
 }
 
 export default UserController;
+
+//Nodemailer used in this file
